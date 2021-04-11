@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "avadanlik_admin (Flutter)",
+            "program": "lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}

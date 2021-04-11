@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "avadanlik_admin",
+            "cwd": "avadanlik_admin",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "avadanlik_admin (Flutter)",
+            "program": "lib/main.dart",
+            "cwd": "avadanlik_admin",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
